@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lokesh!
 - 👀 I’m interested in Web Development - React.JS, NodeJS, Programming, DevOps
 - 🌱 I’m currently open to work.
-- 📫 You can reach me on neolokeshkr@gmail.com
+- 📫 You can reach me out on: neolokeshkr@gmail.com
 
 <!---
 Neolokeshkr/Neolokeshkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
