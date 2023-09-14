@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lokesh!
-- 👀 I’m interested in Web Development - React.JS, NodeJS, Programming, DevOps
+- 👀 I’m interested in Web Development - React.JS, NodeJS, Competetive Programming and everyting related to technology.
 - 🌱 I’m currently open to work.
 - 📫 You can reach me out on: neolokeshkr@gmail.com
 
